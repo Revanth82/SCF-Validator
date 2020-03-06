@@ -1,0 +1,17 @@
+    <?xml version='1.0' encoding='utf-8'?>
+    <Library>
+    <Books count='1'>
+    <!-- Dimension name="LAST_TX_DATE" title="Last Transaction Date" / -->
+        <Book id='1'>
+            <Name>Me Before You</Name>
+            <Author>Jojo Moyes</Author>
+        </Book>
+    </Books>
+    <Booking count='1'>
+        <Books id='1'>
+            <Name>Me Before You</Name>
+            <Author>Jojo Moyes</Author>
+        </Books>
+    </Booking>
+    </Library>;
+
